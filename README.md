@@ -35,7 +35,8 @@ It classifies sentences into 6 categories:
 * Negative
 * Very Positive
 * Very Negative 
-* Sarcasm and Neutral
+* Sarcasm 
+* Neutral
 
 
 
